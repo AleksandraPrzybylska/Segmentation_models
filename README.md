@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [How it works?](#general-info)
+* [How it works](#how-it-works)
 * [Setup](#setup)
 
 ## General info
@@ -13,7 +13,7 @@ The purpose of the project is to prepare a skull stripping method on T1 magnetic
 
 ![](https://www.researchgate.net/profile/Dario_Pompili/publication/309402865/figure/fig1/AS:420915604148224@1477365508110/Skull-stripping-steps-A-input-images-B-brain-contouring-and-C-removal-of.png)
 
-## How it works?
+## How it works
 **1.** Write images and labels paths into list.
 
 **2.** Split dataset into valid and train.
